@@ -1,0 +1,5 @@
+body {
+    background-image     : url('../../public/images/background.svg');
+    background-attachment: fixed;
+    background-size      : cover;
+}
